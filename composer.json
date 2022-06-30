@@ -1,5 +1,7 @@
 {
     "name": "rustedchip/thedatabase",
+    "description": "TheDatabase - Manage your Database.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Rustedchip\\Thedatabase\\": "src/"
